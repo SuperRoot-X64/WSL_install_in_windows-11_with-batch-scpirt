@@ -19,6 +19,14 @@ echo Installing WSL Kernel...
 msiexec /i wsl_update_x64.msi /quiet /norestart
 
 echo.
+echo Opening Microsoft Store for Ubuntu install...
+
+start ms-windows-store://pdp/?productid=9PN20MSR04DW
+
+echo.
+echo After installing Ubuntu, launch it and create your username when prompted.
+
+echo.
 echo Done! System will pause for 5 seconds...
 timeout /t 5 /nobreak >nul
 
