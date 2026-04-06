@@ -1,9 +1,9 @@
 @echo off
 color 02
-title Super-Root-X64 Linux Distro Selector
+title Super-Linux Linux Distro Selector
 
 echo =====================================
-echo   Super-Root-X64 Distro Selector
+echo   Super-Linux Distro Selector
 echo =====================================
 echo   Created by Super-Root-X64
 echo   Script adapted with help from ChatGPT
