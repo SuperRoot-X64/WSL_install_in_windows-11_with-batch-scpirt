@@ -1,9 +1,9 @@
 @echo off
-title WSL Installer - by Rayan
+title WSL Installer - Super-Linux
 
 echo =====================================
 echo   WSL Installer for Windows 11
-echo   Created by SuperRoot-X64
+echo   Created by Super-Linux
 echo   Script adapted with help from ChatGPT
 echo =====================================
 echo.
