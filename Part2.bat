@@ -1,10 +1,10 @@
 @echo off
 color 02
-title WSL Kernel Installer - Super-Root-X64
+title WSL Kernel Installer - Super-Linux
 
 echo =====================================
 echo   WSL Kernel Installer
-echo   Created by Super-Root-X64
+echo   Created by Super-Linux
 echo   Script adapted with help from ChatGPT
 echo =====================================
 echo.
